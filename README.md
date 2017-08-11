@@ -1,1 +1,3 @@
-# imad-app1
+# imad-app
+
+IMAD course application.
